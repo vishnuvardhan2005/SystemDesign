@@ -1,2 +1,2 @@
-# SystemDesign
+# System Design
 System Design
